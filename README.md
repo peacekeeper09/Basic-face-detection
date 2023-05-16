@@ -17,7 +17,7 @@ Make sure you have the following dependencies installed:
 - Python 3
 - OpenCV (cv2) library
 - PySimpleGUI library
-- haarcascade_frontalface_default.xml (Haar Cascade classifier for face detection)
+- haarcascade_frontalface_default.xml (Haar Cascade classifier for face detection) (click here)[https://github.com/peacekeeper09/Basic-face-detection/blob/main/haarcascade_frontalface_default.xml]
 
 ## Usage
 
